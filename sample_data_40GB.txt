@@ -1,0 +1,39 @@
+----------------------------------------------------
+== RUBY DEVELOPER ==================================
+----------------------------------------------------
+
+Выполнение тестового задания. Поиск наибольших цифр.
+
+В компанию:  funbox.ru   Исполнитель: Ряписов А.В.
+
+----------------------------------------------------
+
+====================================================
+one 200 join 33 roman luda212 sss 222tt4gfd6g74gvfdf
+two kola 2 eliza krutyak 442131231uyrtyuteuyeryeryer
+three naerwtwertvaya pyaterka12312312 897s6fh jfhsdf
+four nichego 77 9ewrweqreqw25fgsda54412treterter tre
+five luchshertwetiy go3453rod nz zemlwerwqe jorgonf6
+six 5l4r 9 7638 d7uba55 00 это цифры в словеgdfgdfgd
+seven fartutwertrewewrtna glupa i ochen kovarna 1000
+eight kokoin dreewmlet, мы отдыхаемasdfasdfsadfsadfs
+nine пщидшт sertwerhow vidit dujko olenrterterwtrewt
+ten тот к265 4356345то не пиздит 8888 лучший это гуд
+jfjfjf jfjf 55 55 55 kkkf 55 kfkfkf6retreterterterte
+777777777 8888888888888 777733333 33d33333rterterter
+333333gsdg333333333fsdafasdfsdafasfaweqrwqerqwerwqet
+3333fgdsfg333333sdfgsdfg3333333333rrrrrrrrrrrwwwwwwt
+111111sdfgsdfg111111sdfgdsf1111111fasdfsadrwerwerwew
+111111gdsfg111111hdfkjdsafkjgsadghfsdafsagretet33ter
+111111regasdfasdfasdfasddsfasdfadsretertertertertert
+1111111111117776sddsfgsdfewrwerwerwerwerwerwerwerwee
+1111sdfgsdfgsdfgsdgsdfgsdfg11111dfgsdg11111ii7erwerw
+111dfsgsd111sdfgsdfgsd111111111rewrwerwerwerwqzanghn
+0000001sav a dt78dsfgu7 tybfg  5gt54ghdfgdfgdgsx fff
+====================================================
+
+
+
+
+
+

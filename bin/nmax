@@ -1,0 +1,8 @@
+#!/usr/bin/ruby
+
+require "number_max"
+
+# STDIN.read -Поток данных из текстового файла
+# ARGV[0]    -Ввод данных с клавиатуры пользователя.
+
+puts NumberMax.find_numbers(file: STDIN.read, max: ARGV[0].to_i)
