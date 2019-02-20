@@ -23,7 +23,7 @@
 3. Установите гем:
 
     ```
-     $ gem install number_max-0.1.1.gem
+     $ gem install number_max
  
     ```
 
