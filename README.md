@@ -8,15 +8,24 @@
 
 1. Склонируйте репозиторий:
 
-    $ git clone https://github.com/Raysmaker/number_max.git
+    ```
+     $ git clone https://github.com/Raysmaker/number_max.git
+
+    ```
 
 2. Перейдите в папку гема:
 
+   ``` 
     $ cd number_max
+
+   ```
 
 3. Установите гем:
 
-    $ gem install number_max-0.1.0.gem
+    ```
+     $ gem install number_max-0.1.1.gem
+ 
+    ```
 
 ## Запустите скрипт
 
