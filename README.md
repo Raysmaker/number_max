@@ -16,7 +16,7 @@
 
 3. Установите гем:
 
-    $ gem install number_max
+    $ gem install number_max-0.1.0.gem
 
 ## Запустите скрипт
 
