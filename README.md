@@ -1,5 +1,7 @@
 ## NumberMax
 
+[![Build Status](https://travis-ci.org/Raysmaker/number_max.svg?branch=master)](https://travis-ci.org/Raysmaker/number_max)
+
 ТЕСТОВОЕ ЗАДАНИЕ для начинающего программиста
 
 ### в компанию FUNBOX
